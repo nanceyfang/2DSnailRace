@@ -1,0 +1,28 @@
+Name: Nancey Fang
+
+Course: CPSC 4160
+
+Clemson Email Address: nfang@g.clemson.edu
+
+Project no: 6 
+
+Project due date: May 02, 2018
+
+Project description: Implemented a god mode, reset button, and music/sounds.
+Also, included an end game. The game ends when either the player snail or the
+opponent snail reaches the white flag at the top of the obstacle course. 
+
+Some pizzazz that I've added is a pause menu which is pulled up with the "P" 
+key, a timer that'll keep track of how long the race is, and a high score 
+tracker that writes the best time to an xml. I drew all the assets in the
+game. The new assets that I've drawn are the flag and the snail arrow for 
+the pause menu.
+
+The easiest part of this project: Besides writing the README file, creating 
+the god mode was the easiest part.
+
+Problems that I had in completing this project: It was difficult to get the
+opponent snail to go through the entire obstacle course. Even though I hard
+coded the path, it was difficult to get right with all the jumps and turns. 
+
+
