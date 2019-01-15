@@ -7,6 +7,7 @@ Clemson Email Address: nfang@g.clemson.edu
 Project Description:
 	A 2D Platformer game where you play as a snail and race against an
 enemy snail to the finish flag. 
+You can see a video of game play here: https://youtu.be/xmlyduJ41yw
 
 	This was created in a C++ engine with SDL. It uses object pooling
 for the projectiles. It uses data-driven code with an XML file so I can
